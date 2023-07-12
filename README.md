@@ -1,7 +1,6 @@
 # Employee Leave Management Application
 
-## This is a simple web application for managing employee leaves. It allows users to add, edit, and delete leaves for employees. The application is built using Laravel, a popular PHP framework.
-Features
+## Features
 
 -   User authentication: The application includes user authentication functionality, allowing users to register, log in, and manage their accounts.
 -   Employee management: Users can view a list of employees, add new employees, edit employee details, and delete employees.
